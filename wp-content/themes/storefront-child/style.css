@@ -1,0 +1,13 @@
+/*
+Theme Name: storefront Child Theme
+Theme URI: http: //thachpham.com
+Description: Day la child theme cua storefront
+Author: Thach Pham
+Author URI: http://thachpham.com
+Template: storefront
+Version: 0.1
+*/
+@import url("../storefront/style.css");
+.site-footer{
+	background-color: green;
+}
