@@ -11,3 +11,27 @@ Version: 0.1
 .site-footer{
 	background-color: green;
 }
+.woocommerce-active .site-header .site-header-cart {
+    width: 21.7391304348%;
+    float: left;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-top: 1.618em;
+}
+
+.hentry .entry-header h1{
+display:none;
+
+}
+.hentry .entry-header {
+display:none;
+}
+.main-navigation ul, .secondary-navigation ul {
+    list-style: none;
+    margin-top: 140px;
+    padding-left: 0;
+    display: block;
+}
+.woocommerce-active .site-header .site-header-cart {
+	 margin-top: 140px;
+}
